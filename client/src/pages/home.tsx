@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "reactstrap";
-import Navigation from "../components";
+import Navigation from "../components/Navbar";
 import Header from "../components/Header";
 import IPageProps from "../interfaces/page" ;
 
